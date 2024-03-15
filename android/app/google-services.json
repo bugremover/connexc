@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758964018165",
+    "project_id": "connexc-1c478",
+    "storage_bucket": "connexc-1c478.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758964018165:android:f777e40e6c112b00c05ebc",
+        "android_client_info": {
+          "package_name": "com.example.connexc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsGQjSkBZuhhpR9OorcZl8BWJn_LUuIsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
